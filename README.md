@@ -19,8 +19,8 @@ Installation & Usage
 =========
 ### NOTE: Azbug is made with python and requires python2 to run perfectly.
 ```
-git clone https://github.com/Azrecon/Azbug.git
-cd Azbug
+git clone https://github.com/amazigh-kil3r/azbug_scanner.git
+cd azbug_scanner
 pip install -r requirements.txt
 python Azbug.py
 ```
