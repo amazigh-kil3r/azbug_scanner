@@ -2,11 +2,26 @@ Azbug Tool Scanner
 =========
 
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
-<a href="">
+![YouTube Video Likes](https://img.shields.io/youtube/likes/DacTs09dmJY?style=social)
+<a href="https://twitter.com/intent/tweet?text=dirsearch%20-%20Web%20path%20scanner%20by%20@_maurosoria%0A%0Ahttps://github.com/maurosoria/dirsearch">
     ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmaurosoria%2Fdirsearch)
 </a>
 
-**Current Release: v2.0 (2021.04.1)**
+
+
+**Current Release: v2.0 (2021.04.29)**
+```
+
+	 █████╗ ███████╗██████╗ ██╗   ██╗ ██████╗     ███████╗ ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
+	██╔══██╗╚══███╔╝██╔══██╗██║   ██║██╔════╝     ██╔════╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
+	███████║  ███╔╝ ██████╔╝██║   ██║██║  ███╗    ███████╗██║     ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
+	██╔══██║ ███╔╝  ██╔══██╗██║   ██║██║   ██║    ╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
+	██║  ██║███████╗██████╔╝╚██████╔╝╚██████╔╝    ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
+	╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+
+
+```
+
 
 What is Azbug ?
 =======
@@ -79,6 +94,22 @@ How to use ??
 ### How Convert Cookie String To Cookie Dictionnary
 [![Cookie_Converter](https://asciinema.org/a/hccYaFiDzgUvS0DgGYpPB4NVg.svg)](https://asciinema.org/a/hccYaFiDzgUvS0DgGYpPB4NVg)
 
-Full Video Of How Using Tool Azbug Scanner :)
-[![Azbug](https://cdn..com/logos/hackerone.svg)](https://www.youtube.com/watch?v=f0YtHM2WbBE)
+About List
+----------
+### Note: Don't Delete All This Files Names !
+- We Use Four (4) List Files In Azbug Tool Scanner
+	- Url.txt [List Of Your Urls Do You Want To Scanning]
+	- db/dorks.txt [List Of Dorks, Used For Bing Grabber]
+	- db/wordlist.txt [List For Fuzzing & Discovering - Path Directory - You Can Add Your List As You Like] Length Lines : 9880
+	- db/sub_name.txt [List For Enumiration - Subdomains - Sub Takeover - You Can Add Your List As You Like] Length Lines : 263014 
 
+Full Video Of How Using Tool Azbug Scanner :)
+-----------------------------------
+![YouTube Video Likes](https://img.shields.io/youtube/likes/DacTs09dmJY?style=social)
+![YouTube Video Comments](https://img.shields.io/youtube/comments/DacTs09dmJY?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOwWEeJvAvlq7o3CoLgTYTA?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/DacTs09dmJY?style=social)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DacTs09dmJY" target="_blank">
+ <img src="https://img.youtube.com/vi/DacTs09dmJY/mqdefault.jpg" alt="Watch the video" />
+</a>
