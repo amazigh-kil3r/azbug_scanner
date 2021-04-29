@@ -37,7 +37,7 @@ Installation & Usage
 git clone https://github.com/amazigh-kil3r/azbug_scanner.git
 cd azbug_scanner
 pip install -r requirements.txt
-python Azbug.py
+python azbug.py
 ```
 - If You Are Using Windows 7 Please Install This Cmder | Console Emulator https://cmder.net/
 
