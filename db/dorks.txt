@@ -1,0 +1,5 @@
+(filetype:bkf | filetype:bkp | filetype:bak | filetype:old | filetype:backup filetype:doc | filetype:docx | filetype:odt | filetype:rtf | filetype:sxw | filetype:psw | filetype:ppt | filetype:pptx | filetype:pps | filetype:csv | filetype:xml | filetype:conf | filetype:cnf | filetype:reg | filetype:inf | filetype:rdp | filetype:cfg | filetype:txt | filetype:ora | filetype:ini | filetype:env | filetype:sql | filetype:dbf | filetype:mdb | filetype:log | filetype:php)
+(inurl:"index of /" | intitle:"index of /" | "index of /")
+(inurl:login | inurl:signin | intitle:Login | intitle:"sign in" | inurl:auth | intitle:Signup | inurl:signup | inurl:register | intitle:Sign up | inurl:member | inurl:log in | intitle:log in | intitle:phpinfo "published by the PHP Group")
+(inbody:"sql syntax" | inbody:"syntax error has occurred" | inbody:"incorrect syntax near" | inbody:"unexpected end of SQL command" | inbody:"Warning: mysql_connect" | inbody:"Warning: mysql_query" | inbody:"Warning: pg_connect" | "PHP Parse error" | "PHP Warning" | "PHP Error")
+(inurl:"index.php?id=" | inurl:".php?category=" | inurl:"pageid=" | inurl:".php?file=" | inurl:"php?id=" | inurl:"id=")
