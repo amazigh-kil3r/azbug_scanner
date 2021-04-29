@@ -3,7 +3,7 @@ Azbug Tool Scanner
 
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/DacTs09dmJY?style=social)
-<a href="https://twitter.com/intent/tweet?text=dirsearch%20-%20Web%20path%20scanner%20by%20@_maurosoria%0A%0Ahttps://github.com/maurosoria/dirsearch">
+<a href="https://twitter.com/intent/tweet?text=dirsearch%20-%20Web%20path%20scanner%20by%20@_maurosoria%0A%0Ahttps://github.com/amazigh-kil3r/azbug_scanner">
     ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmaurosoria%2Fdirsearch)
 </a>
 
