@@ -39,6 +39,8 @@ cd azbug_scanner
 pip install -r requirements.txt
 python Azbug.py
 ```
+- If You Are Using Windows 7 Please Install This Cmder | Console Emulator https://cmder.net/
+
 Why Azbug?
 =========
 
