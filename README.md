@@ -3,7 +3,7 @@ Azbug Tool Scanner
 
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/DacTs09dmJY?style=social)
-<a href="https://twitter.com/intent/tweet?text=Awesome+Bugbountyhttps://github.com/amazigh-kil3r/azbug_scanner">
+<a href="https://twitter.com/intent/tweet?text=Awesome%20Bugbounty%20Tool%20Azbug%20Automation%20[Scanning,%20Fuzzing,%20Discovering,%20Full%20Recon,%20Getherthing]%20@Trojan_Kil3r_Amazigh%0A%0Ahttps://github.com/amazigh-kil3r/azbug_scanner">
     ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmaurosoria%2Fdirsearch)
 </a>
 
