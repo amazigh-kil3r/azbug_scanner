@@ -43,6 +43,8 @@ python azbug.py
 
 Video How You Install And Run Azbug Tool !
 ---------------------------------------
+### Note: Check Your [pip --version] - pip 2 .local/lib/python2.7/site-packages/pip (python 2.7) -
+
 [![Azbug_install](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS.svg)](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS)
 
 
