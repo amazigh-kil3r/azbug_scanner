@@ -39,11 +39,20 @@ cd azbug_scanner
 pip install -r requirements.txt OR pip2 install dnspython
 python azbug.py
 ```
+What Else ? IF dns.resloved Module Not Installed ??
+-------------------
+
+```
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+python get-pip.py
+pip2 install dnspython
+python azbug.py
+
+```
 - If You Are Using Windows 7 Please Install This Cmder | Console Emulator https://cmder.net/
 
 Video How You Install And Run Azbug Tool !
 ---------------------------------------
-### Note: Check Your [pip --version] - pip 2 .local/lib/python2.7/site-packages/pip (python 2.7) -
 
 [![Azbug_install](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS.svg)](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS)
 
