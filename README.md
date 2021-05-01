@@ -41,6 +41,11 @@ python azbug.py
 ```
 - If You Are Using Windows 7 Please Install This Cmder | Console Emulator https://cmder.net/
 
+Video How You Install And Run Azbug Tool !
+---------------------------------------
+[![Azbug_install](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS.svg)](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS)
+
+
 Why Azbug?
 =========
 
